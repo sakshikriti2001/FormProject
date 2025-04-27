@@ -1,0 +1,6 @@
+com\NewLearning\ProjectSpring\dao\UserRepository.class
+com\NewLearning\ProjectSpring\ProjectSpringApplication.class
+com\NewLearning\ProjectSpring\Controller\MyController.class
+com\NewLearning\ProjectSpring\Entity\Course.class
+com\NewLearning\ProjectSpring\Services\CourseServicesImpl.class
+com\NewLearning\ProjectSpring\Services\CoursesServices.class
